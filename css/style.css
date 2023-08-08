@@ -1,0 +1,62 @@
+
+*{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: 
+    border-box; 
+}
+
+html { 
+    background-color: #660066; 
+}
+
+body { 
+    min-height: 100vh; 
+    border:2px solid white; 
+    width: 100%;
+}
+
+.clearfix::after{
+    content: ''
+    clear: both;
+    height: 0;
+    visibility: hidden;
+    display: block}
+
+.box-100{
+    width: 100%;
+}
+
+.box-50{
+    width: 50%;
+    float: left;
+}
+.box-40{
+    width: 40%;
+    float: left;
+}
+.box-30{
+    width: 30%;
+    float: left;
+}
+.box-20{
+    width: 20%;
+    float: left;
+}
+.bg-red{
+    background-color: red;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-black{
+    background-color: black;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-green{
+    background-color: green;
+}
