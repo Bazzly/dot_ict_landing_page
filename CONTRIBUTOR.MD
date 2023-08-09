@@ -3,5 +3,7 @@
 Bazzlycodes[ALLI BAZEET DAMOLA]
 
 ## Students
-1.ajokeogunleye10[ogunleye oluwapelumi]
-2.Aliphred [ADEOLA ALAMEEN]
+
+1.Hay-whysoftboy[Ayoade Adedeji]
+2.ajokeogunleye10[ogunleye oluwapelumi]
+3.Aliphred [ADEOLA ALAMEEN]
